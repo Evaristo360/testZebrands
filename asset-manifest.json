@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/Evaristo360/testZebrands/static/js/main.c6113460.js",
+    "static/js/453.7ea6b874.chunk.js": "/Evaristo360/testZebrands/static/js/453.7ea6b874.chunk.js",
+    "index.html": "/Evaristo360/testZebrands/index.html",
+    "main.c6113460.js.map": "/Evaristo360/testZebrands/static/js/main.c6113460.js.map",
+    "453.7ea6b874.chunk.js.map": "/Evaristo360/testZebrands/static/js/453.7ea6b874.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c6113460.js"
+  ]
+}
