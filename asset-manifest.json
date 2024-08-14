@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/Evaristo360/testZebrands/static/js/main.00edec08.js",
-    "static/js/453.21e64c54.chunk.js": "/Evaristo360/testZebrands/static/js/453.21e64c54.chunk.js",
-    "index.html": "/Evaristo360/testZebrands/index.html",
-    "main.00edec08.js.map": "/Evaristo360/testZebrands/static/js/main.00edec08.js.map",
-    "453.21e64c54.chunk.js.map": "/Evaristo360/testZebrands/static/js/453.21e64c54.chunk.js.map"
+    "main.js": "/testZebrands/static/js/main.bd189b26.js",
+    "static/js/453.21e64c54.chunk.js": "/testZebrands/static/js/453.21e64c54.chunk.js",
+    "index.html": "/testZebrands/index.html",
+    "main.bd189b26.js.map": "/testZebrands/static/js/main.bd189b26.js.map",
+    "453.21e64c54.chunk.js.map": "/testZebrands/static/js/453.21e64c54.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.00edec08.js"
+    "static/js/main.bd189b26.js"
   ]
 }
